@@ -1,0 +1,59 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30319.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LightEngine", "LightEngine\LightEngine.vcxproj", "{732B68CA-D0D2-491E-99DA-E9637B97F979}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample", "Sample\Sample.vcxproj", "{21149A99-F633-45AA-9E21-EA9B7424EFFF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CestLesCopains", "CestLesCopains\CestLesCopains.vcxproj", "{F35D47A4-A546-4E8F-8A40-0514AD8B4B96}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TvZ", "TvZ\TvZ.vcxproj", "{6BDF9802-A13E-481C-A46F-C63B0318CCCD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{732B68CA-D0D2-491E-99DA-E9637B97F979}.Debug|x64.ActiveCfg = Debug|x64
+		{732B68CA-D0D2-491E-99DA-E9637B97F979}.Debug|x64.Build.0 = Debug|x64
+		{732B68CA-D0D2-491E-99DA-E9637B97F979}.Release|x64.ActiveCfg = Release|x64
+		{732B68CA-D0D2-491E-99DA-E9637B97F979}.Release|x64.Build.0 = Release|x64
+		{21149A99-F633-45AA-9E21-EA9B7424EFFF}.Debug|x64.ActiveCfg = Debug|x64
+		{21149A99-F633-45AA-9E21-EA9B7424EFFF}.Debug|x64.Build.0 = Debug|x64
+		{21149A99-F633-45AA-9E21-EA9B7424EFFF}.Release|x64.ActiveCfg = Release|x64
+		{21149A99-F633-45AA-9E21-EA9B7424EFFF}.Release|x64.Build.0 = Release|x64
+		{F35D47A4-A546-4E8F-8A40-0514AD8B4B96}.Debug|x64.ActiveCfg = Debug|x64
+		{F35D47A4-A546-4E8F-8A40-0514AD8B4B96}.Debug|x64.Build.0 = Debug|x64
+		{F35D47A4-A546-4E8F-8A40-0514AD8B4B96}.Release|x64.ActiveCfg = Release|x64
+		{F35D47A4-A546-4E8F-8A40-0514AD8B4B96}.Release|x64.Build.0 = Release|x64
+		{6BDF9802-A13E-481C-A46F-C63B0318CCCD}.Debug|x64.ActiveCfg = Debug|x64
+		{6BDF9802-A13E-481C-A46F-C63B0318CCCD}.Debug|x64.Build.0 = Debug|x64
+		{6BDF9802-A13E-481C-A46F-C63B0318CCCD}.Release|x64.ActiveCfg = Release|x64
+		{6BDF9802-A13E-481C-A46F-C63B0318CCCD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B55BDE0C-C430-4E5E-B1A2-C3870A57B182}
+	EndGlobalSection
+EndGlobal
